@@ -1,122 +1,23 @@
+aid: prudential-backstop
 name: Prudential Backstop APIs
-description: API collections for Prudential Backstop financial services and retirement solutions
-image: https://www.prudential.com/logo.png
-url: https://www.prudential.com
-created: '2024-01-15'
-modified: '2024-01-15'
-apis:
-- name: Prudential Backstop Account API
-  description: API for managing retirement accounts, balances, and account information
-  image: https://www.prudential.com/api-icons/account.png
-  humanURL: https://www.prudential.com/backstop/account
-  baseURL: https://api.prudential.com/backstop/v1
-  tags:
-  - accounts
-  - retirement
-  - balances
-  properties:
-  - type: Documentation
-    url: https://developer.prudential.com/docs/account-api
-  - type: OpenAPI
-    url: https://api.prudential.com/backstop/v1/openapi.json
-  - type: Authentication
-    url: https://developer.prudential.com/docs/authentication
-  contact:
-  - FN: Prudential API Support
-    email: api-support@prudential.com
-    url: https://developer.prudential.com/support
-- name: Prudential Backstop Contributions API
-  description: API for processing and managing retirement plan contributions
-  image: https://www.prudential.com/api-icons/contributions.png
-  humanURL: https://www.prudential.com/backstop/contributions
-  baseURL: https://api.prudential.com/backstop/v1
-  tags:
-  - contributions
-  - payments
-  - retirement
-  properties:
-  - type: Documentation
-    url: https://developer.prudential.com/docs/contributions-api
-  - type: OpenAPI
-    url: https://api.prudential.com/backstop/v1/contributions/openapi.json
-  - type: Postman Collection
-    url: https://www.postman.com/prudential/contributions
-  contact:
-  - FN: Prudential API Support
-    email: api-support@prudential.com
-    url: https://developer.prudential.com/support
-- name: Prudential Backstop Investment API
-  description: API for accessing investment options, performance data, and fund information
-  image: https://www.prudential.com/api-icons/investments.png
-  humanURL: https://www.prudential.com/backstop/investments
-  baseURL: https://api.prudential.com/backstop/v1
-  tags:
-  - investments
-  - funds
-  - performance
-  - retirement
-  properties:
-  - type: Documentation
-    url: https://developer.prudential.com/docs/investment-api
-  - type: OpenAPI
-    url: https://api.prudential.com/backstop/v1/investments/openapi.json
-  - type: Rate Limits
-    url: https://developer.prudential.com/docs/rate-limits
-  contact:
-  - FN: Prudential API Support
-    email: api-support@prudential.com
-    url: https://developer.prudential.com/support
-- name: Prudential Backstop Participant API
-  description: API for managing participant information, enrollment, and profile data
-  image: https://www.prudential.com/api-icons/participant.png
-  humanURL: https://www.prudential.com/backstop/participant
-  baseURL: https://api.prudential.com/backstop/v1
-  tags:
-  - participants
-  - enrollment
-  - profiles
-  - retirement
-  properties:
-  - type: Documentation
-    url: https://developer.prudential.com/docs/participant-api
-  - type: OpenAPI
-    url: https://api.prudential.com/backstop/v1/participant/openapi.json
-  - type: Privacy Policy
-    url: https://www.prudential.com/privacy
-  contact:
-  - FN: Prudential API Support
-    email: api-support@prudential.com
-    url: https://developer.prudential.com/support
-- name: Prudential Backstop Distribution API
-  description: API for processing withdrawals, distributions, and loan requests
-  image: https://www.prudential.com/api-icons/distribution.png
-  humanURL: https://www.prudential.com/backstop/distribution
-  baseURL: https://api.prudential.com/backstop/v1
-  tags:
-  - distributions
-  - withdrawals
-  - loans
-  - retirement
-  properties:
-  - type: Documentation
-    url: https://developer.prudential.com/docs/distribution-api
-  - type: OpenAPI
-    url: https://api.prudential.com/backstop/v1/distribution/openapi.json
-  - type: Compliance
-    url: https://developer.prudential.com/docs/compliance
-  contact:
-  - FN: Prudential API Support
-    email: api-support@prudential.com
-    url: https://developer.prudential.com/support
-maintainers:
-- FN: Prudential Developer Relations
-  email: developer-relations@prudential.com
-  url: https://developer.prudential.com
+description: API collections for Prudential Backstop financial services and retirement solutions.
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/prudential-backstop/refs/heads/main/apis.yml
 tags:
-- retirement
-- financial services
-- insurance
-- investments
-- 401k
-- pension
-- backstop
+  - retirement
+  - financial services
+  - insurance
+  - investments
+  - 401k
+  - pension
+  - backstop
+created: '2024-01-15'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.prudential.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
