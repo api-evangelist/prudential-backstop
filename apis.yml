@@ -1,5 +1,5 @@
 aid: prudential-backstop
-name: Prudential Backstop APIs
+name: Prudential Backstop
 description: API collections for Prudential Backstop financial services and retirement solutions.
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/prudential-backstop/refs/heads/main/apis.yml
