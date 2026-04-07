@@ -4,13 +4,13 @@ description: API collections for Prudential Backstop financial services and reti
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/prudential-backstop/refs/heads/main/apis.yml
 tags:
-  - retirement
-  - financial services
-  - insurance
-  - investments
   - 401k
-  - pension
-  - backstop
+  - Backstop
+  - Financial Services
+  - Insurance
+  - Investments
+  - Pension
+  - Retirement
 created: '2024-01-15'
 modified: '2026-03-16'
 specificationVersion: '0.19'
